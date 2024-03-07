@@ -252,16 +252,16 @@ img, video {
   display: flex;
 }
 
+.h-48 {
+  height: 12rem;
+}
+
 .h-96 {
   height: 24rem;
 }
 
-.h-32 {
-  height: 8rem;
-}
-
-.h-48 {
-  height: 12rem;
+.w-52 {
+  width: 13rem;
 }
 
 .w-56 {
@@ -270,26 +270,6 @@ img, video {
 
 .w-\[250px\] {
   width: 250px;
-}
-
-.w-24 {
-  width: 6rem;
-}
-
-.w-1\/4 {
-  width: 25%;
-}
-
-.w-40 {
-  width: 10rem;
-}
-
-.w-2 {
-  width: .5rem;
-}
-
-.w-52 {
-  width: 13rem;
 }
 
 .flex-wrap {
